@@ -1,3 +1,3 @@
 # GitHub_Assignment
  A commit Graph
- Course:
+ Course: CSCI 3323
