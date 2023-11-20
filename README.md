@@ -1,3 +1,2 @@
 # GitHub_Assignment
- A commit Graph
-Assignment:
+ A commit Graph 
